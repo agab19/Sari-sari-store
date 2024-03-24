@@ -174,18 +174,18 @@ double calculateTotalPrice(int quantity, double pricePerItem) {
 
 int displayMenu() {
     cout << "Welcome to our Sari-Sari Store!\n" << endl;
-    cout << "1. Buy >> Coffee <<" << endl;
-    cout << "2. Buy >> Milo <<" << endl;
-    cout << "3. Buy >> Juice Powder <<" << endl;
-    cout << "4. Buy >> Rice <<" << endl;
-    cout << "5. Buy >> Corned Beef <<" << endl;
-    cout << "6. Buy >> Tuna <<" << endl;
-    cout << "7. Buy >> Sardines <<" << endl;
-    cout << "8. Buy >> Pancit Canton <<" << endl;
-    cout << "9. Buy >> Potato Chips <<" << endl;
-    cout << "10. Buy >> Soft Drinks <<" << endl;
-    cout << "11. Buy >> Soap <<" << endl;
-    cout << "12. Buy >> Shampoo <<" << endl;
+    cout << "1. Buy >> Coffee PHP3 <<" << endl;
+    cout << "2. Buy >> Milo PHP3 <<" << endl;
+    cout << "3. Buy >> Juice Powder PHP10 <<" << endl;
+    cout << "4. Buy >> Rice  PHP45 <<" << endl;
+    cout << "5. Buy >> Corned Beef PHP50 <<" << endl;
+    cout << "6. Buy >> Tuna PHP35<<" << endl;
+    cout << "7. Buy >> Sardines PHP25<<" << endl;
+    cout << "8. Buy >> Pancit Canton PHP17 <<" << endl;
+    cout << "9. Buy >> Potato Chips PHP20 <<" << endl;
+    cout << "10. Buy >> Soft Drinks PHP17 <<" << endl;
+    cout << "11. Buy >> Soap PHP20 <<" << endl;
+    cout << "12. Buy >> Shampoo PHP25 <<" << endl;
     cout << "13. >> Check Out <<" << endl;
 
     int choice;
